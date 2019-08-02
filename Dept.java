@@ -1,6 +1,6 @@
 public class Dept{
 	
-	private Integer dno;
+	private Integer deptno;
 	private String dname;
 	
 }
